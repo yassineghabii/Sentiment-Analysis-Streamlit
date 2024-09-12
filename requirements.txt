@@ -1,9 +1,9 @@
-streamlit
-pandas
+pandas-ta
 numpy
+pandas
+streamlit
 yfinance
 plotly
-pandas_ta
 stocknews
 requests
 textblob
