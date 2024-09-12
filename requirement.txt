@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+pandas_ta
+stocknews
+requests
+textblob
+beautifulsoup4
+spacy
